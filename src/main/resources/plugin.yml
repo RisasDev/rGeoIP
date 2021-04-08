@@ -1,0 +1,7 @@
+main: dev.risas.geoip.GeoIP
+name: rGeoIP
+version: ${project.version}
+author: Risas
+commands:
+  geoip:
+    description: "GeoIP Command"
